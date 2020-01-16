@@ -7,13 +7,19 @@ msgstr ""
 "Project-Id-Version: Odoo Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-17 15:30+0000\n"
-"PO-Revision-Date: 2019-12-17 15:30+0000\n"
+"PO-Revision-Date: 2020-01-16 13:15+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
+
+#. module: product_retail_fields
+#: model:ir.model.fields,field_description:product_retail_fields.field_product_product__retail_brand
+#: model:ir.model.fields,field_description:product_retail_fields.field_product_template__retail_brand
+msgid "Brand"
+msgstr "Marca"
 
 #. module: product_retail_fields
 #: model:ir.model.fields,field_description:product_retail_fields.field_product_product__retail_colour
@@ -54,3 +60,8 @@ msgstr "Secuencia"
 msgid "Series"
 msgstr "Serie"
 
+#. module: product_retail_fields
+#: model:ir.model.fields,field_description:product_retail_fields.field_product_product__retail_type
+#: model:ir.model.fields,field_description:product_retail_fields.field_product_template__retail_type
+msgid "Type"
+msgstr "Tipo"

@@ -13,6 +13,8 @@
                             <field name="retail_series"/>
                             <field name="retail_colour"/>
                             <field name="retail_sequence"/>
+                            <field name="retail_brand"/>
+                            <field name="retail_type"/>
                         </group>
                     </group>
                 </page>
